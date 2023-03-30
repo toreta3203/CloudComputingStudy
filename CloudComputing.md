@@ -61,14 +61,8 @@ EX) Azure Stack - Microsoft 사의 Hybrid Computing Appliance
 * 사용자가 사용하는 소프트웨어를 가상화하여 제공
 * 응용프로그램 서비스 형태로 제공하여 서비스를 사용하는 환경
 
-|Packaged Software|IaaS|PaaS|SaaS|
-|:-------:|:----:|:----:|:----:|
-|Application|Application|Application|<span style="color:#ffd33d">Application</span>|
-|Data|Data|Data|<span style="color:#ffd33d">Data</span>|
-|Runtime|Runtime|<span style="color:#ffd33d">Runtime|<span style="color:#ffd33d">Runtime</span>|
-|Middleware|Middleware|<span style="color:#ffd33d">Middleware|<span style="color:#ffd33d">Middleware</span>|
-|O/S|O/S|<span style="color:#ffd33d">O/S|<span style="color:#ffd33d">O/S</span>|
-|Virtualization|<span style="color:#ffd33d">Virtualization|<span style="color:#ffd33d">Virtualization|<span style="color:#ffd33d">Virtualization</span>|
-|Servers|<span style="color:#ffd33d">Servers|<span style="color:#ffd33d">Servers|<span style="color:#ffd33d">Servers</span>|
-|Storage|<span style="color:#ffd33d">Storage|<span style="color:#ffd33d">Storage|<span style="color:#ffd33d">Storage</span>|
-|Neworking|<span style="color:#ffd33d">Neworking|<span style="color:#ffd33d">Neworking|<span style="color:#ffd33d">Neworking</span>|
+<p align = "center">
+    <img src="Pictures\Cloud Computing Service Model.jpg">
+    </p>
+    <p align = "center"> # Cloud Computing Service Model </p>
+
