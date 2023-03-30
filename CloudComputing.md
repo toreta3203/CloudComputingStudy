@@ -63,12 +63,12 @@ EX) Azure Stack - Microsoft 사의 Hybrid Computing Appliance
 
 |Packaged Software|IaaS|PaaS|SaaS|
 |:-------:|:----:|:----:|:----:|
-|Application|Application|Application|<span style="background-color:#0100FF">Application</span>|
-|Data|Data|Data|<span style="background-color:#0100FF">Data</span>|
-|Runtime|Runtime|Runtime|<span style="background-color:#0100FF">Runtime</span>|
-|Middleware|Middleware|Middleware|<span style="background-color:#0100FF">Middleware</span>|
-|O/S|O/S|O/S|<span style="background-color:#0100FF">O/S</span>|
-|Virtualization|Virtualization|Virtualization|<span style="background-color:#0100FF">Virtualization</span>|
-|Servers|Servers|Servers|<span style="background-color:#0100FF">Servers</span>|
-|Storage|Storage|Storage|<span style="background-color:#0100FF">Storage</span>|
-|Neworking|Neworking|Neworking|<span style="background-color:#0100FF">Neworking</span>|
+|Application|Application|Application|<span style="color:#ffd33d">Application</span>|
+|Data|Data|Data|<span style="color:#ffd33d">Data</span>|
+|Runtime|Runtime|<span style="color:#ffd33d">Runtime|<span style="color:#ffd33d">Runtime</span>|
+|Middleware|Middleware|<span style="color:#ffd33d">Middleware|<span style="color:#ffd33d">Middleware</span>|
+|O/S|O/S|<span style="color:#ffd33d">O/S|<span style="color:#ffd33d">O/S</span>|
+|Virtualization|<span style="color:#ffd33d">Virtualization|<span style="color:#ffd33d">Virtualization|<span style="color:#ffd33d">Virtualization</span>|
+|Servers|<span style="color:#ffd33d">Servers|<span style="color:#ffd33d">Servers|<span style="color:#ffd33d">Servers</span>|
+|Storage|<span style="color:#ffd33d">Storage|<span style="color:#ffd33d">Storage|<span style="color:#ffd33d">Storage</span>|
+|Neworking|<span style="color:#ffd33d">Neworking|<span style="color:#ffd33d">Neworking|<span style="color:#ffd33d">Neworking</span>|
